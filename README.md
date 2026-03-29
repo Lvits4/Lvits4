@@ -1,5 +1,5 @@
 <!-- Header estilo Waving con gradiente rojo → naranja, ancho completo -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:FFA500&height=100&section=header&text=Lvits4&fontSize=40&fontColor=ffffff" style="width:100%; height:auto;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:FFA500&height=150&section=header&text=Lvits4&fontSize=40&fontColor=ffffff" style="width:100%; height:auto;"/>
 
 ## Sobre mí
 Desarrollo soluciones digitales que combinan <b>diseño, funcionalidad y enfoque humano</b>.  
