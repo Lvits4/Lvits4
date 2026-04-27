@@ -1,5 +1,5 @@
-<!-- Header estilo Waving con gradiente rojo → naranja, ancho completo -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:FFA500&height=150&section=header&text=Lvits4&fontSize=40&fontColor=ffffff" style="width:100%; height:auto;"/>
+<!-- Header NASA -->
+<img width="1163" height="433" alt="lvitsa" src="https://github.com/user-attachments/assets/5043430e-4998-4d26-be91-472063eae8f5" /> 
 
 ## About me
 I develop digital solutions that combine design, functionality, and a human-centered approach. I specialize in creating accessible, modular, and responsive interfaces, aligning every technical decision with the real needs of the user. I work with attention to detail, responsibility, and a mindset of continuous improvement, integrating modern technologies to optimize processes and enhance results.
